@@ -1,0 +1,72 @@
+{
+    "wordcloud":{
+        "thief":[
+            "Getting arrested and going to prision for doing a robbery",
+            "Doing a robbery and not being caught and getting away with it",
+            "Applying for a job and being rejected after a background check reveals record of being a thief",
+            "Being turned down for housing because of a criminal record despite having income and references",
+            "Attending a mandatory check in with a probation officer as a regular feature of weekly life",
+            "Violating a parole condition unintentionally and facing the possibility of being sent back to prison",
+            "Being unable to travel freely due to parole or probation restrictions on movement",
+            "Paying court ordered fines or restitution from a very limited income each month",
+            "Rebuilding an identification document — ID, passport, license — that was lost or expired due to criminal records",
+            "Telling a potential employer about a criminal record before a background check reveals it and not getting the job",            
+            "Being monitored by an electronic ankle bracelet as a daily visible reminder of legal supervision",
+            "Being stopped by police in daily life and experiencing the fear",
+            "Trying to reconnect with family members who are uncertain, cautious, or unwilling to talk because of being a thief",
+            "Experiencing a family member cutting off contact because of the criminal past and managing that loss",
+            "Rebuilding trust with a partner, parent, or sibling after the damage caused by past criminal activity",
+            "Living in a halfway house or supervised accommodation as a condition of release",
+            "Being unable to vote, hold certain licenses, or access certain public services due to a criminal conviction",
+            "Experiencing shame when meeting new people who do not know the criminal history and managing what to disclose",
+            "Being recognized in a community by someone who knows the criminal history and experiencing the social weight of that",
+            "Attending court for an ongoing legal matter",
+            "Meeting someone else who has been through the criminal justice system",
+            "Beginning to build a daily life — routine, work, relationships, stability — that makes returning to old patterns feel less necessary"
+        ],
+        "Beggar":[
+            "Sitting in a public space asking passersby for money and experiencing the hours of being ignored or dismissed",
+            "Experiencing the specific humiliation of being looked through by people who avoid eye contact while passing because you are a beggar",
+            "Receiving a small amount of money from a stranger and experiencing the specific relief that even a small amount produces",
+            "Being moved on by security or police because you are a beggar from a spot where regular money was being received",
+            "Finding a new location to beg after being removed from a previous spot and starting the process over",
+            "Experiencing the physical exposure of spending long hours outside in heat, cold, rain, or wind",
+            "Receiving food instead of money from a passerby and being grateful despite needing money more",
+            "Being verbally abused or mocked by someone passing while asking for help",
+            "Experiencing a moment of genuine human connection with a stranger who stops, gives, and speaks with respect",
+            "Being robbed of the money collected during a day of begging by someone",
+            "Receiving a meal from a soup kitchen, food bank, or charitable organization as the primary daily food source",
+            "Experiencing illness — cold, infection, injury — without access to medical care or a place to recover",
+            "Having personal belongings stolen or destroyed while sleeping rough"
+        ],
+        "in_prison":[
+            "Being arrested and taken into custody by police",
+            "Spending time in a holding cell or jail before trial or sentencing",
+            "Being sentenced to prison and experiencing the shock of that moment",
+            "Working in a prison job — kitchen, laundry, maintenance — and experiencing the routine and purpose that provides",
+            "Attending educational or vocational programs offered in prison and experiencing the opportunity for growth they provide",
+            "Maintaining contact with family and friends outside through visits, phone calls, or letters while in prison",
+            "Experiencing the emotional toll of separation from loved ones while incarcerated",
+            "Facing disciplinary actions for rule violations within the prison system and navigating their consequences",
+            "Participating in rehabilitation programs for substance abuse or mental health issues while in prison",
+            "Experiencing the specific challenges of reentry planning while still incarcerated — finding housing, employment, support networks for release",
+            "Being released from prison and experiencing the shock and adjustment of that moment",
+            "Being released from prison and navigating the challenges of reentry into society — finding housing, employment, rebuilding relationships, managing legal obligations"
+            ],
+            "pregnant":[
+            "Finding out about the pregnancy and experiencing the initial shock and emotions of that moment",
+            "Attending regular prenatal appointments and experiencing the physical and emotional changes of pregnancy",
+            "Experiencing morning sickness, fatigue, and other common symptoms of pregnancy on a daily basis",
+            "Making decisions about prenatal care, nutrition, and lifestyle changes to support a healthy pregnancy",
+            "Navigating the social dynamics of pregnancy",
+            "Preparing for childbirth by attending classes, creating a birth plan, and gathering necessary supplies",
+            "Experiencing the physical discomforts of late pregnancy — back pain, swelling, difficulty sleeping — on a daily basis",
+            "Going into labor and experiencing the intensity and unpredictability of that process",
+            "Giving birth and experiencing the physical and emotional aftermath of that moment",
+            "Recovering from childbirth while caring for a newborn and navigating the challenges of new parenthood",
+            "having a miscarriage and experiencing the grief and loss that comes with that",
+            "Experiencing complications during pregnancy or childbirth and navigating the medical interventions and emotional toll that produces",
+            "Balancing work, family, and pregnancy-related responsibilities and challenges on a daily basis"
+            ] 
+    }
+}
