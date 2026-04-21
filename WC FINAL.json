@@ -1,6 +1,45 @@
 {
   "word_cloud":{
     "childhood": {
+      "0-3":{
+       "Family Environment": [
+         "parental care",
+         "family affection",
+         "family neglect",
+         "Emotional availability of family members",
+         "Early bonding or attachment with family members",
+         "Cultural or family traditions exposure",
+         "Family Environment",
+         "Mother tongue immersion"
+       ],
+       "Health & Growth": [
+         "rapid growth as a tolddler",
+         "vaccinations",
+         "Increasing physical independence",
+         "Physical safety of surroundings",
+         "taking first steps"
+       ],
+       "Early Socialization": [
+         "playdates",
+         "sharing toys",
+         "first friendships",
+         "Comfort around known adults",
+         "Exposure to other children (siblings, playmates)",
+         "Observation and imitation of peers",
+         "Display of basic emotions",
+         "Learning manners through observation"
+       ],
+       "Play & Exploration": [
+         "toys",
+         "mischief",
+         "Physical play (running, climbing, jumping)",
+         "Outdoor play and exposure to nature",
+         "Minor falls and recovery",
+         "Cognitive stimulation through exploration",
+         "Frustration when play is interrupted"
+       ]
+      },
+      "3-6":{
        "Family Environment": [
          "parental care",
          "sibling rivalry",
@@ -15,11 +54,9 @@
          "Mother tongue immersion"
        ],
        "Health & Growth": [
-         "rapid growth as a tolddler",
-         "vaccinations",
-         "Increasing physical independence",
          "Cleanliness and hygiene practices",
-         "Physical safety of surroundings"
+         "Physical safety of surroundings",
+         "Learning to communicate physical pain or discomfort"
        ],
        "Early Socialization": [
          "playdates",
@@ -48,6 +85,7 @@
          "Cognitive stimulation through exploration",
          "Frustration when play is interrupted"
        ]
+      }
      },
      "Primary Education": {
        "Academic Progress": [
