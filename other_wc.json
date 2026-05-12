@@ -67,6 +67,29 @@
             "having a miscarriage and experiencing the grief and loss that comes with that",
             "Experiencing complications during pregnancy or childbirth and navigating the medical interventions and emotional toll that produces",
             "Balancing work, family, and pregnancy-related responsibilities and challenges on a daily basis"
-            ] 
+            ],
+            "pets":[
+            "Pet shows signs of illness suddenly",
+            "Pet is diagnosed with a serious condition",
+            "Pet is injured in an accident",
+            "Pet recovers from a long illness",
+            "Pet requires emergency veterinary care",
+            "Pet develops a chronic condition",
+            "Pet goes missing from home",
+            "Pet is stolen",
+            "Pet escapes and cannot be found",
+            "Pet is found after being lost",
+            "Pet displays aggressive or unusual behavior",
+            "Pet forms an unexpected bond with a family member",
+            "Pet causes damage or trouble at home",
+            "Pet refuses to eat or becomes withdrawn",
+            "Pet passes away unexpectedly",
+            "Pet is given away due to circumstances",
+            "A neighbor complains about the pet",
+            "Pet is threatened by another animal",
+            "Pet attracts unwanted attention from others",
+            "Family member objects to keeping the pet"
+
+            ]
     }
 }
