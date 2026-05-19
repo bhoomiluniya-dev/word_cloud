@@ -1,0 +1,519 @@
+{
+  "fish": {
+    "petFellIll": {
+      "weight": 28,
+      "sub_category": "Pet illness",
+      "choice_probability": 0.55,
+      "word_cloud": [
+        "fish floating near the surface unusually",
+        "white spots appearing on the fins",
+        "fish swimming in erratic circles",
+        "bloated belly noticed during feeding",
+        "fins looking torn and discolored",
+        "fish refusing to eat for days",
+        "cloudy eyes observed in the tank",
+        "fungal growth spreading on the body",
+        "fish hiding at the bottom constantly",
+        "tank water turning murky overnight"
+      ]
+    },
+    "petVaccinationPrompt": {
+      "weight": 10,
+      "sub_category": "Pet vaccination",
+      "choice_probability": 0.3,
+      "word_cloud": [
+      ]
+    },
+    "petStolen": {
+      "weight": 8,
+      "sub_category": "Pet stolen or missing",
+      "choice_probability": 0.3,
+      "word_cloud": [
+      ]
+    },
+    "petDiedUnexpected": {
+      "weight": 5,
+      "sub_category": "Pet death",
+      "choice_probability": 0.35,
+      "word_cloud": [
+        "fish found floating at the top of the tank",
+        "sudden death after a water change",
+        "toxic substance accidentally entered the fish tank",
+        "power cut caused water temperature to drop fatally",
+        "filter failure overnight led to oxygen depletion"
+      ]
+    },
+    "petConnection": {
+      "weight": 33,
+      "sub_category": "Bonding with pet",
+      "choice_probability": 0.4,
+      "word_cloud": [
+        "watching the fish swim calms your nerves",
+        "feeding ritual becomes a peaceful daily habit",
+        "you name each fish and talks to them daily",
+        "family members gathers around the tank to spend some time",
+        "setting up a new decorated tank together",
+        "fish recognizes your presence at the tank",
+        "quiet evenings spent watching the tank glow"
+      ]
+    },
+    "petDiedOldAge": {
+      "weight": 0,
+      "sub_category": "Pet dies of old age",
+      "choice_probability": 0.25,
+      "word_cloud": [
+        "fish moving slower than usual these days",
+        "color fading gradually over the weeks",
+        "fish spending most time resting at the bottom",
+        "appetite has decreased significantly",
+        "family notices the fish is not its usual self",
+        "pet fish dies because of old age"
+      ]
+    }
+  },
+  "bird": {
+    "petFellIll": {
+      "weight": 28,
+      "sub_category": "Pet illness",
+      "choice_probability": 0.55,
+      "word_cloud": [
+        "bird sitting puffed up and silent all day",
+        "discharge noticed around the beak and eyes",
+        "feathers falling out in unusual patches",
+        "bird refusing to eat or drink",
+        "sneezing repeatedly throughout the day",
+        "unusual droppings noticed in the cage",
+        "bird losing balance on its perch",
+        "swollen feet observed during cleaning",
+        "labored breathing heard in the morning",
+        "bird no longer singing or chirping"
+      ]
+    },
+    "petVaccinationPrompt": {
+      "weight": 18,
+      "sub_category": "Pet vaccination",
+      "choice_probability": 0.5,
+      "word_cloud": [
+        "bird flu scare reported in the region",
+        "vet recommends annual health checkup for birds",
+        "nearby poultry farm reports an outbreak",
+        "preventive treatment advised for pet birds",
+        "bird due for its seasonal health screening",
+        "local authority issues advisory for bird owners"
+      ]
+    },
+    "petStolen": {
+      "weight": 12,
+      "sub_category": "Pet stolen or missing",
+      "choice_probability": 0.5,
+      "word_cloud": [
+        "cage door found open and bird gone",
+        "bird flew out during a moment of distraction",
+        "visitor accidentally left the window open",
+        "bird spotted outside but flew away before caught",
+        "bird missing after the cage was left on the balcony"
+      ]
+    },
+    "petDiedUnexpected": {
+      "weight": 5,
+      "sub_category": "Pet death",
+      "choice_probability": 0.35,
+      "word_cloud": [
+        "bird found motionless at the bottom of the cage",
+        "died after inhaling fumes from the kitchen",
+        "sudden fatal reaction to a new food",
+        "cat reached the cage during the night",
+        "bird died after flying into a closed window",
+        "heatstroke during an unusually hot afternoon affecting health of bird"
+      ]
+    },
+    "petConnection": {
+      "weight": 33,
+      "sub_category": "Bonding with pet",
+      "choice_probability": 0.4,
+      "word_cloud": [
+        "bird mimics your voice for the first time",
+        "morning filled with cheerful birdsong",
+        "bird perches on your shoulder during work",
+        "child teaches the bird a new word",
+        "bird responds excitedly when you come home",
+        "family gathers to watch the bird's antics",
+        "bird chirps along to music playing at home"
+      ]
+    },
+    "petDiedOldAge": {
+      "weight": 0,
+      "sub_category": "Pet dies of old age",
+      "choice_probability": 0.25,
+      "word_cloud": [
+        "bird singing less frequently these days",
+        "feathers losing their shine with age",
+        "bird sleeping more than usual",
+        "family notices the bird moving more slowly",
+        "final days spent quietly in the corner of the cage",
+        "bird dies due to oldage"
+      ]
+    }
+  },
+  "dog": {
+    "petFellIll": {
+      "weight": 28,
+      "sub_category": "Pet illness",
+      "choice_probability": 0.55,
+      "word_cloud": [
+        "sudden lethargy and loss of appetite",
+        "unexplained vomiting or distress",
+        "limping after playing in the yard",
+        "worsening cough or breathing trouble",
+        "refusing food and hiding away",
+        "swollen limb noticed during grooming",
+        "scratching excessively without relief",
+        "bloated belly and restless behavior",
+        "seizure out of nowhere at home",
+        "pale gums noticed during routine check"
+      ]
+    },
+    "petVaccinationPrompt": {
+      "weight": 22,
+      "sub_category": "Pet vaccination",
+      "choice_probability": 0.65,
+      "word_cloud": [
+        "annual vaccination reminder from the vet",
+        "rabies outbreak reported in the neighborhood",
+        "landlord requires proof of vaccination",
+        "pet due for booster shots this season",
+        "low-cost vaccination clinic announced nearby",
+        "family member worried about rabies risk",
+        "local authority announces mandatory dog vaccination",
+        "missed last year's dose by several months",
+        "bird dies because of oldage"
+      ]
+    },
+    "petStolen": {
+      "weight": 12,
+      "sub_category": "Pet stolen or missing",
+      "choice_probability": 0.5,
+      "word_cloud": [
+        "dog missing after the gate was left open",
+        "suspicious stranger seen near the yard and dog is missing",
+        "dog disappeared overnight from the yard",
+        "pet collar found near the area",
+        "dog spooked by loud noise and ran off",
+        "missing poster of your pet put up with no response",
+        "festival crowds made it easy to lose sight",
+        "someone claims to have seen the dog nearby",
+        "dog got lost and found in a few hours"
+      ]
+    },
+    "petDiedUnexpected": {
+      "weight": 5,
+      "sub_category": "Pet death",
+      "choice_probability": 0.35,
+      "word_cloud": [
+        "dog found unresponsive at home",
+        "sudden collapse after an illness",
+        "dog got struck by a vehicle and died",
+        "poisoning suspected after outdoor play",
+        "fatal reaction to a new medication",
+        "heat stroke during an unusually hot day"
+      ]
+    },
+    "petConnection": {
+      "weight": 33,
+      "sub_category": "Bonding with pet",
+      "choice_probability": 0.4,
+      "word_cloud": [
+        "dog waits at the door every evening for you",
+        "morning walk becomes a cherished daily ritual",
+        "dog senses your mood and stays close",
+        "you and dog become inseparable friends",
+        "dog brings you its favorite toy as a gift",
+        "elderly people finds comfort in the dog's company",
+        "dog curls up beside a sick family member",
+        "dog's playful antics make everyone laugh",
+        "dog falls asleep on your lap",
+        "you do shopping for your pet dog as a token of love"
+      ]
+    },
+    "petDiedOldAge": {
+      "weight": 0,
+      "sub_category": "Pet dies of old age",
+      "choice_probability": 0.25,
+      "word_cloud": [
+        "dog slowing down with age",
+        "struggling to climb stairs it once ran up",
+        "sleeping through most of the day now",
+        "last walk together in the neighborhood",
+        "vet says nothing more can be done",
+        "family sits together in the dog's final hours",
+        "dog dies because of oldage"
+      ]
+    }
+  },
+  "rabbit": {
+    "petFellIll": {
+      "weight": 28,
+      "sub_category": "Pet illness",
+      "choice_probability": 0.55,
+      "word_cloud": [
+        "rabbit sitting hunched and motionless in the corner",
+        "not eating hay or pellets since morning",
+        "bloated stomach noticed during petting",
+        "labored breathing observed while resting",
+        "runny nose and watery eyes appearing",
+        "teeth grinding heard during the night",
+        "rabbit dragging its hind legs suddenly",
+        "fur loss in patches around the neck",
+        "soft droppings replacing normal pellets",
+        "rabbit grinding teeth and refusing to move"
+      ]
+    },
+    "petVaccinationPrompt": {
+      "weight": 18,
+      "sub_category": "Pet vaccination",
+      "choice_probability": 0.55,
+      "word_cloud": [
+        "vet recommends annual RHDV vaccination",
+        "myxomatosis outbreak reported among local rabbits",
+        "rabbit due for its yearly booster shot",
+        "neighbor's rabbit fell ill from a preventable disease",
+        "vet warns about seasonal viral risk for rabbits",
+        "low-cost rabbit vaccination camp announced nearby"
+      ]
+    },
+    "petStolen": {
+      "weight": 12,
+      "sub_category": "Pet stolen or missing",
+      "choice_probability": 0.5,
+      "word_cloud": [
+        "rabbit escaped through a gap in the enclosure",
+        "cage door found open with rabbit missing",
+        "rabbit disappeared during outdoor playtime",
+        "someone accidentally left the hutch unlatched",
+        "rabbit spotted in the garden but ran off",
+        "neighbor reports seeing a loose rabbit nearby",
+        "rabbit got lost and found in a few hours"
+      ]
+    },
+    "petDiedUnexpected": {
+      "weight": 5,
+      "sub_category": "Pet death",
+      "choice_probability": 0.35,
+      "word_cloud": [
+        "rabbit found unresponsive in the hutch",
+        "died suddenly after appearing healthy",
+        "fatal GI stasis went unnoticed overnight",
+        "rabbit died after ingesting a toxic plant",
+        "overheating during a hot afternoon proved fatal",
+        "internal complications discovered too late"
+      ]
+    },
+    "petConnection": {
+      "weight": 33,
+      "sub_category": "Bonding with pet",
+      "choice_probability": 0.4,
+      "word_cloud": [
+        "rabbit hops onto your lap during quiet evenings",
+        "family spends hours playing gently with the rabbit",
+        "rabbit binkies joyfully around the living room",
+        "grooming the rabbit becomes a calming routine",
+        "rabbit responds to its name for the first time",
+        "family gathers to watch the rabbit explore",
+        "rabbit nudges your hand asking to be petted",
+        "feeding time becomes the highlight of the day",
+        "you buy stuff for your pet rabbit"
+      ]
+    },
+    "petDiedOldAge": {
+      "weight": 0,
+      "sub_category": "Pet dies of old age",
+      "choice_probability": 0.25,
+      "word_cloud": [
+        "rabbit moving slower and resting more each day",
+        "appetite has noticeably decreased over weeks",
+        "fur losing its softness and shine",
+        "rabbit no longer interested in playing",
+        "family prepares for the inevitable goodbye",
+        "final days spent peacefully in its favorite spot",
+        "pet dies of oldage"
+      ]
+    }
+  },
+  "cat": {
+    "petFellIll": {
+      "weight": 28,
+      "sub_category": "Pet illness",
+      "choice_probability": 0.55,
+      "word_cloud": [
+        "cat hiding under the bed all day",
+        "vomiting repeatedly after meals",
+        "sneezing and runny eyes noticed",
+        "coat looking dull and unkempt",
+        "cat refusing its favorite food",
+        "limping after jumping off the ledge",
+        "excessive thirst and frequent urination",
+        "cat crying out in pain when touched",
+        "hairball problem becoming more frequent",
+        "sudden weight loss over a few weeks"
+      ]
+    },
+    "petVaccinationPrompt": {
+      "weight": 22,
+      "sub_category": "Pet vaccination",
+      "choice_probability": 0.65,
+      "word_cloud": [
+        "annual vaccination reminder received from vet",
+        "cat flu outbreak reported in the locality",
+        "cat due for its rabies booster this month",
+        "vet recommends full vaccination before outdoor access",
+        "neighbor's cat fell ill from a preventable disease",
+        "low-cost vaccination drive organized nearby",
+        "housing society requires proof of cat vaccination"
+      ]
+    },
+    "petStolen": {
+      "weight": 12,
+      "sub_category": "Pet stolen or missing",
+      "choice_probability": 0.5,
+      "word_cloud": [
+        "cat slipped out through an open window",
+        "not returned home since last evening",
+        "cat last seen near the building entrance",
+        "missing poster put up with no response yet",
+        "neighbor spotted the cat on another floor",
+        "cat scared by a loud noise and ran off",
+        "festival noise may have frightened the cat away",
+        "cat lost and found in a few hours"
+      ]
+    },
+    "petDiedUnexpected": {
+      "weight": 5,
+      "sub_category": "Pet death",
+      "choice_probability": 0.35,
+      "word_cloud": [
+        "cat found unresponsive at home",
+        "fell from a height during the night",
+        "poisoning suspected after eating something outside",
+        "fatal kidney failure discovered too late",
+        "cat died after a sudden severe infection",
+        "cat dies after a road accident"
+      ]
+    },
+    "petConnection": {
+      "weight": 33,
+      "sub_category": "Bonding with pet",
+      "choice_probability": 0.4,
+      "word_cloud": [
+        "cat curls up on your chest during a hard day",
+        "purring softly beside you every night",
+        "cat kneads your lap as a sign of comfort",
+        "playful antics lift the mood at home",
+        "cat greets you at the door every evening",
+        "child and cat share a quiet afternoon together",
+        "cat brings you a toy as a proud offering",
+        "grooming session becomes a peaceful bonding time",
+        "cat follows you from room to room all day",
+        "you buy stuff for your pet"
+      ]
+    },
+    "petDiedOldAge": {
+      "weight": 0,
+      "sub_category": "Pet dies of old age",
+      "choice_probability": 0.25,
+      "word_cloud": [
+        "cat sleeping far more than usual these days",
+        "no longer jumping onto its favorite spots",
+        "eating less with each passing week",
+        "vet says the cat is in its final stage",
+        "family gathers around the cat in its last days",
+        "cat spends its final hours in your arms"
+        "cat dies of oldage"
+      ]
+    }
+  },
+  "mouse": {
+    "petFellIll": {
+      "weight": 28,
+      "sub_category": "Pet illness",
+      "choice_probability": 0.55,
+      "word_cloud": [
+        "mouse sitting hunched and unresponsive in the corner",
+        "labored breathing noticed during handling",
+        "unusual discharge around the eyes and nose",
+        "mouse losing weight rapidly over days",
+        "fur appearing ruffled and patchy",
+        "mouse trembling without any apparent cause",
+        "diarrhea noticed in the cage lining",
+        "red staining around the eyes from porphyrin",
+        "mouse dragging its hind legs suddenly",
+        "unusual lump discovered during grooming"
+      ]
+    },
+    "petVaccinationPrompt": {
+      "weight": 8,
+      "sub_category": "Pet vaccination",
+      "choice_probability": 0.3,
+      "word_cloud": [
+        "vet recommends preventive parasite treatment",
+        "disease outbreak among rodents in the area",
+        "routine health checkup advised for pet mice",
+        "vet suggests antibiotic course as precaution",
+        "pet store recommends health screening for new mice"
+      ]
+    },
+    "petStolen": {
+      "weight": 10,
+      "sub_category": "Pet stolen or missing",
+      "choice_probability": 0.4,
+      "word_cloud": [
+        "mouse escaped through a small gap in the cage",
+        "cage door found unlatched and mouse gone",
+        "mouse disappeared during out-of-cage playtime",
+        "someone accidentally let the mouse loose",
+        "mouse spotted behind furniture but escaped",
+        "family searches the house with no luck"
+      ]
+    },
+    "petDiedUnexpected": {
+      "weight": 5,
+      "sub_category": "Pet death",
+      "choice_probability": 0.35,
+      "word_cloud": [
+        "mouse found unresponsive in the cage",
+        "died suddenly without any prior warning",
+        "fatal respiratory infection progressed overnight",
+        "mouse ingested something toxic in the house",
+        "overheating in the cage during a hot day",
+        "tumor discovered only after sudden death"
+      ]
+    },
+    "petConnection": {
+      "weight": 33,
+      "sub_category": "Bonding with pet",
+      "choice_probability": 0.4,
+      "word_cloud": [
+        "mouse climbs into your palm trustingly",
+        "child spends hours watching the mouse explore",
+        "mouse responds to your voice during feeding",
+        "setting up a new enriched cage together as a family",
+        "mouse runs excitedly when it hears your approach",
+        "tiny antics bring unexpected laughter to the house",
+        "mouse falls asleep curled in your hand"
+      ]
+    },
+    "petDiedOldAge": {
+      "weight": 0,
+      "sub_category": "Pet dies of old age",
+      "choice_probability": 0.25,
+      "word_cloud": [
+        "mouse slowing down noticeably each day",
+        "spending most of the time sleeping in the nest",
+        "no longer interested in the wheel or toys",
+        "eating very little despite fresh food",
+        "family knows the end is drawing near",
+        "final days spent peacefully in familiar bedding",
+        "pet dies of oldage"
+      ]
+    }
+  }
+}
